@@ -1,6 +1,6 @@
 [user]
-  name = Juan Ignacio Donoso
-  email = jidonoso@gmail.com
+  name = Leandro Segovia
+  email = ldlsegovia@gmail.com
 
 [credential]
   helper = osxkeychain
@@ -59,4 +59,4 @@
   modified = red
 
 [github]
-  user = blackjid
+  user = ldlsegovia
