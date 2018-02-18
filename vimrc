@@ -69,8 +69,6 @@ set list listchars=tab:»·,trail:·,nbsp:·
 " Color scheme
 syntax on
 set background=dark
-let g:solarized_termtrans = 1
-colorscheme solarized
 
 " Make it obvious where 80 characters is
 set textwidth=80

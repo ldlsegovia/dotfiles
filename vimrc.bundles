@@ -11,7 +11,6 @@ endif
 call plug#begin('~/.vim/plugged')
 
 " Define bundles via Github repos
-Plug 'altercation/vim-colors-solarized'
 Plug 'kchmck/vim-coffee-script'
 Plug 'scrooloose/syntastic'
 Plug 'nathanaelkane/vim-indent-guides'

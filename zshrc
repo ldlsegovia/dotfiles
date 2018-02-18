@@ -65,7 +65,6 @@ setopt no_nomatch
 # Init rbenv and nodenv
 eval "$(rbenv init -)"
 eval "$(nodenv init -)"
-eval "$(goenv init -)"
 
 # mkdir .git/safe in the root of repositories you trust
 export PATH=".git/safe/../../bin:$PATH"
