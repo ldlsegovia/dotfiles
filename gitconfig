@@ -1,6 +1,6 @@
 [user]
-  name = Leandro Segovia
-  email = ldlsegovia@gmail.com
+	name = Leandro Segovia
+	email = ldlsegovia@gmail.com
 
 [credential]
   helper = osxkeychain

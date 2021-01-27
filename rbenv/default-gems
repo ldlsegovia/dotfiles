@@ -1,5 +1,4 @@
 bundler
 potassium
 rails
-rubocop 0.49.1
-hound-cli
+rubocop

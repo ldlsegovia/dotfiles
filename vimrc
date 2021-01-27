@@ -113,9 +113,6 @@ nnoremap <C-l> <C-w>l
 let g:syntastic_check_on_open=1
 let g:syntastic_html_tidy_ignore_errors=[" proprietary attribute \"ng-"]
 
-" Always use vertical diffs
-set diffopt+=vertical
-
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
